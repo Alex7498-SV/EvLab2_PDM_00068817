@@ -1,5 +1,6 @@
 package com.example.paletargb.Fragment
 
 class Color {
-    var
+    var color:Color? = null
+
 }
